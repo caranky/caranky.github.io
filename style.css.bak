@@ -128,4 +128,3 @@
       font-size: 0.9rem;
     }
 /* CSS블루버튼 시작 */ .CSSblueButton { box-shadow: 0px 1px 0px 0px #aff6ff; background:linear-gradient(to bottom, #64c1ff 5%, #2395ff 100%); background-color:#64c1ff; border-radius:17px; border:1px solid #2395ff; display:inline-block; cursor:pointer; color:#333333; font-family:Arial; font-size:19px; font-weight:bold; padding:6px 80px; text-decoration:none; text-shadow:0px 1px 0px #64c1ff; } .CSSblueButton:hover { text-decoration:none; background:linear-gradient(to bottom, #2395ff 5%, #64c1ff 100%); background-color:#2395ff; } .CSSblueButton:active { text-decoration:none; position:relative; top:1px; } /* CSS블루버튼 끝 */
-H1,h2,h3,h4,h5,h6,p,span,a,button{ word-wrap: break-word; word-break: keep-all; }
